@@ -1,0 +1,30 @@
+{
+  "name": "jquery-datatable-helper",
+  "version": "1.0.0",
+  "description": "Helper functions to simplify DataTables initialization with jQuery, including export buttons (Excel, PDF, Print, Word) and custom settings.",
+  "main": "index.js",
+  "author": {
+    "name": "Luiz Felipe de Lima Scapolan",
+    "url": "https://github.com/thelzf"
+  },
+  "keywords": [
+    "jquery",
+    "datatable",
+    "datatables",
+    "data-table",
+    "datatable-helper",
+    "jquery-plugin",
+    "export",
+    "pdf",
+    "excel"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thelzf/jquery-datatable-helper.git"
+  },
+  "bugs": {
+    "url": "https://github.com/thelzf/jquery-datatable-helper/issues"
+  },
+  "homepage": "https://github.com/thelzf/jquery-datatable-helper#readme"
+}
