@@ -1,6 +1,6 @@
 {
   "name": "@thelzf/jquery-datatable-helper",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Helper functions to simplify DataTables initialization with jQuery, including export buttons (Excel, PDF, Print, Word) and custom settings.",
   "main": "index.js",
   "author": {
@@ -29,5 +29,16 @@
   "homepage": "https://github.com/thelzf/jquery-datatable-helper#readme",
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/"
+  },
+  "dependencies": {
+    "jquery": "^3.6.0",
+    "datatables.net": "^1.13.6",
+    "datatables.net-buttons": "^2.4.1",
+    "datatables.net-responsive": "^2.5.0"
+  },
+  "peerDependencies": {
+    "jquery": "^3.6.0",
+    "datatables.net": "^1.13.6",
+    "datatables.net-buttons": "^2.4.1"
   }
 }
